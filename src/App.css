@@ -1,0 +1,18 @@
+.notepad-container {
+  display: flex;
+}
+
+.menu {
+  width: 250px;
+  border-right: 1px solid #ccc;
+  padding: 10px;
+}
+
+.editor {
+  flex: 1;
+  padding: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
